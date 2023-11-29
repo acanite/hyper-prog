@@ -1,5 +1,5 @@
 #HyperCalc function definition lib
-# Author: Peter Deak
+# Author: Akanni Akeem Olayinka
 
 #Length 
 define inch_to_centimeter(i)  = i*2.54          #Inch to centimeter
