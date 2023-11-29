@@ -1,6 +1,6 @@
 #HyperCalc function definition lib
 #Hyperbolic functions
-# Author: Peter Deak
+# Author: Akanni Akeem Olayinka
 # Soruce: http://en.wikipedia.org/wiki/Hyperbolic_function
 
 define sinh(x)  = (e^x-e^-x)/2                       #Hyperbolic sine
