@@ -1,5 +1,5 @@
 #HyperCalc function definition lib
-# Author: Peter Deak
+# Author: Akanni Akeem Olayinka
 
 define quadratic_formula1(a,b,c) = (-b+sqrt(b*b-4*a*c))/2*a   # Quadratic formula's first result
 define quadratic_formula2(a,b,c) = (-b-sqrt(b*b-4*a*c))/2*a   # Quadratic formula's first result
